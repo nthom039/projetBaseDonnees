@@ -1,0 +1,6 @@
+in cmd
+- c:\Apache24\Apache24\bin
+- httpd.exe
+to stop 
+-Ctrl+C
+
